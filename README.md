@@ -1,5 +1,5 @@
 # Hi Github👋!Aj here.
-### I'm a Software Developer, Data Science Enthusiast and a youtube content creator. I love to learn, Learning is living.
+### I'm a Backend Developer, Data Science Enthusiast and a youtube content creator. I love to learn, Learning is living.
 
 
 - 🔭 I’m currently studing Software engineering :nerd_face:
